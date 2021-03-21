@@ -1,0 +1,7 @@
+_____________________ NPM packages _____________________
+- formik:handle form + yup: handle validation
+- animation: framer-motion
+- tailwindscss
+- axios
+- react router dom
+- firebase
